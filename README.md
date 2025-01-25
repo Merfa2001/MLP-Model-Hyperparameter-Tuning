@@ -1,7 +1,3 @@
-# MLP-Model-Hyperparameter-Tuning
-Here's a README template for your code, along with a suggestion for the repository name.
-
----
 
 # MLP Model Hyperparameter Tuning
 
